@@ -1,0 +1,59 @@
+body{
+    text-align: center;
+    
+}
+
+#head{
+    font-family:'Edu NSW ACT Foundation';
+    font-size: x-large;
+    color: rgb(24, 90, 54);
+    font-weight: 700;
+}
+
+#sub_head{
+    font-family:'Dancing Script';
+    font-size: xx-large;
+    font-weight: 600;
+}
+
+.divs{
+    width: 1200px;
+    height: 300px;
+    background-color: burlywood;
+    align-content: space-between;
+    border-radius: 10px;
+
+}
+
+img{
+    width: 100px;
+    height: 150px;
+    border-radius: 10px;
+    padding-top: 30px;
+}
+
+.mput{
+    background-color: whitesmoke;
+    margin-left:100px;
+    height: 35px; 
+    padding-top: 5px;
+    width: fit-content;
+    border-radius: 5px;
+    
+}
+
+.gput{
+    background-color: whitesmoke;
+    margin-left: 400px;
+    height: 35px; 
+    padding-top: 5px;
+    width: fit-content;
+    border-radius: 5px;
+    
+}
+
+p{
+    color: red;
+    font-family: Pacifico;
+    font-size: xx-large;
+}
